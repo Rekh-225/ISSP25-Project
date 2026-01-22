@@ -1,5 +1,4 @@
 # 💼 ISSP25 AI Salary Prediction Dashboard
-
 ## 📊 Overview
 This project explores and predicts cybersecurity job salaries using a machine learning model. It includes:
 - Exploratory data analysis (EDA)
